@@ -10,11 +10,10 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Bhadoo Cloud - Upload to Google Drive</title>
-    <meta name="description" content="Upload Files using URL to Google Drive the easy way.">
+    <title>99HostingTalk: Upload File to Gdrive Without Downloading to your computer.</title>
+    <meta name="description" content="Upload Files using URL to Google Drive in the the easy way without downloading to your local computer.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="google-site-verification" content="9F7q-mnyiVsLUDhhCjvE8M1dJ43Ia5qIH8x3JHWCBeY" />
-    <meta name="robots" content="all,follow">
+    <meta name="robots" content="noindex">
     <link rel=apple-touch-icon href="//cdn.jsdelivr.net/gh/ParveenBhadooOfficial/BhadooJS@1.0.10/icons/apple-touch-icon.png"/>
     <link rel="shortcut icon" href="//cdn.jsdelivr.net/gh/ParveenBhadooOfficial/BhadooJS@1.0.10/icons/apple-touch-icon.png"/>
     <link rel=apple-touch-icon sizes=180x180 href="//cdn.jsdelivr.net/gh/ParveenBhadooOfficial/BhadooJS@1.0.10/icons/apple-touch-icon.png">
@@ -123,7 +122,7 @@
                 <li><a href="/uploads"> <i class="fa fa-tachometer"></i>Your Uploads</a></li>
                 <!-- <li><a href="https://github.com/ParveenBhadooOfficial/SaveToGoogleDrive/issues"> <i class="fa fa-thumbs-o-up"></i>Suggest an Idea</a></li> -->
                 <!-- <li><a href="https://github.com/ParveenBhadooOfficial/SaveToGoogleDrive/issues"> <i class="fa fa-bug"></i>Report a Bug</a></li> -->
-                <li><a href="https://hashhackers.com/contact"> <i class="fa fa-envelope-o "></i>Contact</a></li>
+                <li><a href="#"> <i class="fa fa-envelope-o "></i>Contact</a></li>
             </ul>
         </nav>
         <div class="content-inner" id="content-inner">
