@@ -37,7 +37,7 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script><![endif]-->
     <jsp:invoke fragment="head_area"/>
     <style>
-    .g-login:hover { content: url('https://cdn.jsdelivr.net/gh/jscdn/images@1.0.3/logo/google/signin/btn_google_signin_dark_focus_web.png'); }
+    .g-login:hover { content: url('https://i.imgur.com/iWwc39n.png'); }
         .gbii {
     background-image: url(${user.profilePhotoUrl});
     }
